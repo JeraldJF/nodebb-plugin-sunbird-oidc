@@ -2,7 +2,7 @@
   "id": "nodebb-plugin-sunbird-oidc",
   "name": "Sunbird SSO Plugin for NodeBB",
   "description": "Authenticate to Sunbird identity provider.",
-  "url": "https://github.com/vrayulu/nodebb-plugin-sunbird-oidc",
+  "url": "https://github.com/JeraldJF/nodebb-plugin-sunbird-oidc",
   "library": "./library.js",
   "templates": "templates",
   "hooks": [

@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-sunbird-oidc",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Authenticate to Sunbird identity provider.",
   "main": "library.js",
   "repository": {
